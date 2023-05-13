@@ -3,7 +3,6 @@ class HomePage{
       /* 
     Page Web Elements
     */
-   
     accept_cookies = '[class="btn btn-outline-primary"]'
 
     navigate(){

@@ -1,5 +1,8 @@
 class SinglePerson{
-   
+
+    /* 
+    Page Web Elements
+    */
     allen_button = '[class="btn btn-outline-primary"]'
     allen_text = '(//input[@type="text"])[1]'
     volgende = '[class="btn btn-primary"]'

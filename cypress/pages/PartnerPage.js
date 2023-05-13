@@ -1,5 +1,8 @@
 class PartnerPage{
 
+      /* 
+    Page Web Elements
+    */
     myage_xp = '(//input[@type="text"])[1]'
     partnerage_xp = '(//input[@type="text"])[2]'
     following_button_1 = '(//button[@class="btn btn-primary"])[1]'
